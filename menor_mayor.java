@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Programa para hallar numero mayor y menor y calcular supromedio
  * 
- * @author Carlos Alvarez 
+ * @author Sandra Martin, Israel Severiche, Jose Alvarez
  * @version 20190817
  */
 public class menor_mayor
